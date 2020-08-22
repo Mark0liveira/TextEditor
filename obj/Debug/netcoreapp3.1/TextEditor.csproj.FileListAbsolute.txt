@@ -1,0 +1,12 @@
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.deps.json
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.runtimeconfig.json
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.runtimeconfig.dev.json
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.dll
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/bin/Debug/netcoreapp3.1/TextEditor.pdb
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.csprojAssemblyReference.cache
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.AssemblyInfoInputs.cache
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.AssemblyInfo.cs
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.csproj.CoreCompileInputs.cache
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.dll
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.pdb
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/TextEditor/obj/Debug/netcoreapp3.1/TextEditor.genruntimeconfig.cache
